@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fmentor-qrcode-challenge/static/css/main.917b4dd8.css",
+    "main.js": "/fmentor-qrcode-challenge/static/js/main.f33e1aea.js",
+    "index.html": "/fmentor-qrcode-challenge/index.html",
+    "main.917b4dd8.css.map": "/fmentor-qrcode-challenge/static/css/main.917b4dd8.css.map",
+    "main.f33e1aea.js.map": "/fmentor-qrcode-challenge/static/js/main.f33e1aea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.917b4dd8.css",
+    "static/js/main.f33e1aea.js"
+  ]
+}
